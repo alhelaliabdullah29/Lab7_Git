@@ -2,7 +2,7 @@
 Storage Estimator - Main Version
 
 
-Storage Estimator - Feature Version
+
 
 ## Purpose
 The Storage Estimator is a Python program that calculates
